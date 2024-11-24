@@ -2,3 +2,4 @@ Hola, somos Karla y Sonia.
 Estamos intentando usar GIT para poder hacer nuestro pequeño proyecto :).
 Si ves esto Jon, feliz año nuevo!!!.
 esta es la practica de git
+Mi final es sencillo, espero aprobar :D.
